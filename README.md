@@ -24,7 +24,7 @@ Hi, I'm @Ninja-XP — a passionate solo programmer 🧑‍💻, innovator 🌟, 
 
 ## ✨ **Highlights**  
 - 🔨 **Current Project**:  
-  - Crafting **binary-code-tool**, a next-gen Binary Code Reader and Creator Tool 🎶.  
+  - Crafting **binary-code-tool**, a next-gen Binary Code Reader and Creator App 🎶.  
 - 🌱 **Learning**: Exploring AI/ML models and advancing in cloud computing ☁️.  
 - 🏆 **Achievements**: Delivered multiple high-impact solo projects with a focus on clean code and UX.  
 
